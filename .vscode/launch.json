@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+
+      {
+        "name": "Pixel 5 API 33",
+        "request": "launch",
+        "type": "dart",
+        "program": "./lib/presentation/main/main.dart",
+        "deviceId": "emulator-5554"
+      },
+      {
+        "name": "release",
+        "request": "launch",
+        "type": "dart",
+        "program": "./lib/presentation/main/main.dart"
+      },
+      {
+        "name": "debug",
+        "request": "launch",
+        "type": "dart",
+        "program": "./lib/presentation/main/main.dart"
+      },
+      {
+        "name": "localhost",
+        "request": "launch",
+        "type": "dart",
+        "program": "./lib/presentation/main/main.dart"
+      },
+      {
+        "name": "demo_widget",
+        "request": "launch",
+        "type": "dart",
+        "program": "./lib/presentation/main/main.dart"
+      }
+    ]
+  }
+  
